@@ -1,0 +1,44 @@
+$contEmph: #ba2d0b;
+$contDark: #003e1f;
+$contLight: #3ee493;
+$contBright: #54defd;
+$contFun: #f6ae2d;
+
+.contrast {
+  $emph: #ba2d0b;
+  $dark: #003e1f;
+  $light: #3ee493;
+  $bright: #54defd;
+  $fun: #f6ae2d;
+
+  .emphT {
+    color: $emph;
+  }
+  .emphBg {
+    background: $emph;
+  }
+  .darkT {
+    color: $dark;
+  }
+  .darkBg {
+    background: $dark;
+  }
+  .lightT {
+    color: $light;
+  }
+  .lightBg {
+    background: $light;
+  }
+  .brightT {
+    color: $bright;
+  }
+  .brightBg {
+    background: $bright;
+  }
+  .funT {
+    color: $fun;
+  }
+  .funBg {
+    background: $fun;
+  }
+}
